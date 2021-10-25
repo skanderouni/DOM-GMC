@@ -1,0 +1,47 @@
+nav {
+  width: 100%;
+  z-index: 1;
+}
+.carousel-item {
+  height: 400px !important;
+  margin-top: 75px !important;
+}
+
+.carousel-caption {
+  font-weight: bold;
+}
+
+.shop {
+  width: 70%;
+}
+.fact {
+  width: 30%;
+  height: 30%;
+  z-index: 0;
+}
+.shop img {
+  height: 250px;
+  padding: 5px;
+}
+
+.qte {
+  padding: 6px;
+  background-color: rgb(216, 216, 216);
+  font-weight: bold;
+}
+
+.card-text,
+.prx,
+.SousTot1,
+.SousTot {
+  font-weight: bold;
+}
+.PrixTot {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+footer {
+  text-decoration: none;
+  text-align: center;
+}
